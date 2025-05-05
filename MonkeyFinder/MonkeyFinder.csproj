@@ -49,6 +49,7 @@
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Maui.Dependencies" Version="6.0.553" />
 		<PackageReference Include="Microsoft.Maui.Extensions" Version="6.0.553" />
+		<PackageReference Include="System.ObjectModel" Version="4.3.0" />
 		<PackageReference Include="System.Text.Json" Version="9.0.4" />
 	</ItemGroup>
 </Project>
